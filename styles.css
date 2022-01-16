@@ -1,0 +1,39 @@
+h1{
+    color:darkgreen; font: bold; padding:10px;
+}
+h2{
+    color:darkgreen; font:bold; padding:10px;
+}
+h3{
+    color:darkgreen; font: bold; padding:10px;
+}
+
+p{
+    color:black; font: bold; font-family:Verdana, Geneva, Tahoma, sans-serif; padding:10px;
+}
+body{
+    background-color: gainsboro;
+}
+
+.col-md-6{
+    background-color: whitesmoke;
+    padding:10px
+}
+.conatiner{
+    background-color:whitesmoke;
+    padding:10px
+}
+.col-md-12{
+    background-color:whitesmoke;
+    padding:20px
+}
+th,td{
+    padding: 5px;
+}
+th{
+    background-color: gray;
+    color:white
+}
+tr:nth-child(even){
+    background-color: whitesmoke;
+}
